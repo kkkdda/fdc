@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head><title>Flight Claim Calculator</title>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale="1.0"/>
+</head>
+<body>
+<header>
+<h1>Flight Claim Calculator</h1>
+<p>Know your claims before you proceed</p>
+<nav>
+<ul>
+<li><a href="#Within">Within EU</a></li>
+<li><a href="#from">From Others To EU</a></li>
+<li><a href="#to">To Others From EU</a></li>
+</ul>
+</nav>
+</header>
+<section>
+<dev class="container">
+<input type="number">
+</div>
+</section>
+</body>
+</html>
